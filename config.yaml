@@ -28,6 +28,7 @@ social:
   stackoverflow: your-github-link
   # facebook: your-facebook-link
 
+math: true
 
 # Site parameters
 params:
@@ -44,17 +45,17 @@ params:
   enableGoogleAnalytics: true
 
   # Optional
-  home: '' # Default: Home
-  about: '' # Default: About
-  archive: '' # Default: Archive
-  tags: '' # Default: Tags
+  home: 'Home' # Default: Home
+  about: 'About' # Default: About
+  archive: 'Archive' # Default: Archive
+  tags: 'Tags' # Default: Tags
   subscribe: '' # Default: Subscribe
   olderPosts: '' # Default: Older Posts
   newerPosts: '' # Default: Newer Posts
-  copyright: '' # Default: © Copyright 2021 ❤️ author
-  title404: '' # Default: 404 - Page Not Found
-  subtitle404: '' # Default: The content you're looking for doesn't seem to exist.
-  readMore: '' # Default: Read More
+  copyright: '© Copyright 2021 ❤️ Ryan Teo' # Default: © Copyright 2021 ❤️ author
+  title404: '404 - Page Not Found' # Default: 404 - Page Not Found
+  subtitle404: 'The content you\'re looking for doesn\'t seem to exist.' # Default: The content you're looking for doesn't seem to exist.
+  readMore: 'Read More' # Default: Read More
 
   # Extra links in navigation
   links:
