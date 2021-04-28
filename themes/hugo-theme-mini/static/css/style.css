@@ -84,7 +84,7 @@ p {
 p,
 pre {
   line-break: anywhere;
-  word-break: break-all;
+  word-break: keep-all;
 }
 .markdown-image img {
   max-width: 100%;
@@ -217,6 +217,7 @@ nav.navigation a.button {
 .main {
   width: 100%;
   margin: 0 auto;
+  text-align: justify;
 }
 
 /* profile  */
