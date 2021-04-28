@@ -28,8 +28,6 @@ social:
   stackoverflow: your-github-link
   # facebook: your-facebook-link
 
-math: true
-
 # Site parameters
 params:
   # Site Author
@@ -43,7 +41,9 @@ params:
   enableComments: true
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
-
+  
+  math: true
+  
   # Optional
   home: 'Home' # Default: Home
   about: 'About' # Default: About
