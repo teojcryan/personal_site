@@ -85,7 +85,6 @@ p {
 }
 p,
 pre {
-  line-break: anywhere;
 }
 .markdown-image img {
   max-width: 100%;
