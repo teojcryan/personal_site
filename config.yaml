@@ -52,10 +52,10 @@ params:
   subscribe: '' # Default: Subscribe
   olderPosts: '' # Default: Older Posts
   newerPosts: '' # Default: Newer Posts
-  copyright: '© Copyright 2021 ❤️ Ryan Teo' # Default: © Copyright 2021 ❤️ author
-  title404: '404 - Page Not Found' # Default: 404 - Page Not Found
-  subtitle404: 'The content you\'re looking for doesn\'t seem to exist.' # Default: The content you're looking for doesn't seem to exist.
-  readMore: 'Read More' # Default: Read More
+  copyright: '' # Default: © Copyright 2021 ❤️ author
+  title404: '' # Default: 404 - Page Not Found
+  subtitle404: '' # Default: The content you're looking for doesn't seem to exist.
+  readMore: '' # Default: Read More
 
   # Extra links in navigation
   links:
