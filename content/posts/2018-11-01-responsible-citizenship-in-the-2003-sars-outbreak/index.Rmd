@@ -8,6 +8,8 @@ tags:
   - health policy
 bibliography: [index.bib]
 link-citations: true
+csl: ama.csl
+refs: true
 ---
 
 I wrote this paper for a writing class on citizenship and discourse. I enjoyed exploring the humanistic side of epidemics and disease control, which is not something I get to work on often.
@@ -87,5 +89,3 @@ In conclusion, the SARS narrative alone cannot be attributed to shaping ‘socia
 This paper has shown that narratives play an important role in influencing public behaviour and that their success is shaped by how well they align with the prevailing metanarrative. The paper has also illustrated how ‘responsible citizenship’ as an ideal is shaped by narratives discursively constructed by the government and wider socio-political conditions.
 
 # References
-
-<div id="refs"></div>

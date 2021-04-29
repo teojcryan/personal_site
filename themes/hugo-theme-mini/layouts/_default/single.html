@@ -5,7 +5,7 @@
 
     <div class="tip">
         <span>
-          {{ .Date.Format "Jan 2, 2006 15:04" }}
+          {{ .Date.Format "Jan 2, 2006" }}
         </span>
         <span class="split">
           ·
@@ -38,7 +38,11 @@
     {{ end}}
     
     {{ if or .Params.math .Site.Params.math }}
-    {{ partial "math.html" . }}
+      {{ partial "math.html" . }}
+    {{ end }}
+
+    {{ if .Params.bibliography }}
+      {{ partial "references.html" . }}
     {{ end }}
     
     {{ partial "comment.html" . }}

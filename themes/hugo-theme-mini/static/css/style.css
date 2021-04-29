@@ -212,6 +212,10 @@ nav.navigation a.button {
   margin: 0 4px;
 }
 
+#refs {
+  text-align: left;
+}
+
 /* main content */
 .main {
   width: 100%;
