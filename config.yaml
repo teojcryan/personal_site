@@ -23,9 +23,10 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  github: https://github.com/teojcryan
+  twitter: https://twitter.com/teojcryan
+  linkedin: https://www.linkedin.com/in/teojcryan/
+  #stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 # Site parameters
