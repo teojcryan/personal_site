@@ -1,28 +1,16 @@
 ---
 aliases:
-- about-us
-- about-hugo
-- contact
-author: Hugo Authors
-date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
+- about-me
+author: Ryan Teo
+date: "2021-04-29"
+description: Ryan Teo 
 title: About
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello! I'm Ryan. I'm a final year undergraduate student at the [National University of Singapore](http://www.nus.edu.sg/), reading a major in Statistics and minors in Public Health and Geographical Information Systems. I was also a resident of [Residential College 4](https://rc4.nus.edu.sg/), where I received training in System Dynamics. I also served as the Research Director for the [NUS Public Health Interest Group](https://nusphig.wixsite.com/nusphig).
 
-Hugo makes use of a variety of open source projects including:
+My academic interests include biostatistics, epidemiology and statistical learning. In particular, I have been drawn to projects related to infectious disease and health systems modelling. My undergraduate thesis was focused on estimating and predicting dengue susceptibility over space and time in Singapore.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I created this website to showcase and keep track of the work I have been involved in for the past few years. This site was built over the Hugo theme [mini](https://github.com/nodejh/hugo-theme-mini) using `blogdown` in RStudio.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/teojcryan/)!
