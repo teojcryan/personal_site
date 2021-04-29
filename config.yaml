@@ -4,7 +4,7 @@ title: Hugo
 theme: "hugo-theme-mini"
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
-
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
