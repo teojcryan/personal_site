@@ -12,6 +12,8 @@ link-citations: true
 
 I wrote this paper for a writing class on citizenship and discourse. I enjoyed exploring the humanistic side of epidemics and disease control, which is not something I get to work on often.
 
+<!--more-->
+
 # Introduction
 Singapore’s management of the 2003 SARS epidemic was heralded as an exemplary model of outbreak management. This was achieved through sound government policies bolstered by strong public cooperation to act ‘responsibly’. This paper aims to examine the discursive strategies employed by the government in creating a narrative surrounding SARS, and the role this narrative played in constructing what constitutes ‘socially responsible’ behaviour and consequently, ‘responsible citizenship’.
 
@@ -85,3 +87,5 @@ In conclusion, the SARS narrative alone cannot be attributed to shaping ‘socia
 This paper has shown that narratives play an important role in influencing public behaviour and that their success is shaped by how well they align with the prevailing metanarrative. The paper has also illustrated how ‘responsible citizenship’ as an ideal is shaped by narratives discursively constructed by the government and wider socio-political conditions.
 
 # References
+
+<div id="refs"></div>
