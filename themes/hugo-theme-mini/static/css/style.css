@@ -9,6 +9,7 @@ body {
 a {
   text-decoration: none;
   color: #5badf0;
+  display: inline-block;
 }
 
 a:hover {
@@ -44,6 +45,8 @@ th, td {
   text-align: left;
   padding-right: 20px;
   vertical-align: top;
+  display: inline-block;
+  word-break: break-word;
 }
 
 table td, td {
