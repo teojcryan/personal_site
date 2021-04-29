@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: https://teojcryan.com
 languageCode: en-us
-title: Hugo
+title: Ryan Teo
 theme: "hugo-theme-mini"
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
@@ -31,14 +31,14 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: Ryan Teo
   # Author biography
-  bio: Software Engineer
+  bio: Graduate Student
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
   
