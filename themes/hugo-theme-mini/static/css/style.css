@@ -213,9 +213,18 @@ nav.navigation a.button {
 }
 
 #refs {
+  padding-left: 22px;
+  text-indent: -22px;
   text-align: left;
 }
 
+#refs a {
+  padding-left: 22px;
+}
+
+#refs::first-line {
+  text-indent:0;
+}
 /* main content */
 .main {
   width: 100%;

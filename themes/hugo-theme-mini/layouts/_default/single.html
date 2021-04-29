@@ -40,10 +40,12 @@
     {{ if or .Params.math .Site.Params.math }}
       {{ partial "math.html" . }}
     {{ end }}
-
+    
+    <!--
     {{ if .Params.bibliography }}
       {{ partial "references.html" . }}
     {{ end }}
+    -->
     
     {{ partial "comment.html" . }}
 
