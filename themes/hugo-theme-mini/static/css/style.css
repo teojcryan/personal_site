@@ -1,4 +1,5 @@
 body {
+  line-height: 1.5;
   font: normal 15px/1.5em 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #404040;
   line-height: 1.75;
@@ -383,7 +384,6 @@ nav.navigation a.button {
 #single .tags a:hover {
   color: #0366d6;
 }
-
 
 #archive {
   max-width: 580px;

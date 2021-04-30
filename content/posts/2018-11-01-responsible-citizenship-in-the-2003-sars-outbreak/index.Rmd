@@ -7,7 +7,6 @@ categories: []
 tags:
   - health policy
 bibliography: index.bib
-csl: ama.csl
 link-citations: true
 ---
 
