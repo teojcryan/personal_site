@@ -219,6 +219,8 @@ nav.navigation a.button {
 
 #refs a {
   padding-left: 22px;
+  text-align: left;
+  word-break: break-all;
 }
 
 /* main content */
