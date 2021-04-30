@@ -221,10 +221,6 @@ nav.navigation a.button {
   padding-left: 22px;
 }
 
-#refs::first-line {
-  text-indent:0;
-}
-
 /* main content */
 .main {
   width: 100%;
