@@ -94,13 +94,9 @@ We can generate quite interesting inferences from the `met` matrices generated b
 
 `met_mean` is constant over each simulation and equal to 3.32. This means that on average, each fellow will meet every other fellow for 3.32 times. I don't yet have an explanation for why it remains constant, but I think that the random effects over all the simulations are nullified by taking the mean of the number of interactions. I might be wrong.
 
-```{r echo=F, out.width=100%}
-ggplot(data.frame(met_null), aes(x=x)) + 
-  geom_histogram(binwidth=1, fill="#69b3a2") +
-  ggtitle("Frequency of no. of non-interactions") +
-  labs(x = " Number of non-interactions") + 
-  theme_bw()
-```
+<center>
+![](images/hist_null.png){width=80%}
+</center>
 
 The histogram of the number of no-interactions, or `met_null`, is plotted above. It seems that for 20 breakout rounds, on average there can be 10 missed interactions - meaning 10 pairs of interactions between fellows will not materialise. This is quite interesting to note - out of a possible 378 interactons (taking 27+26+25+...+1), only around 2.6% of interactions are missed. It might reflect a high level of success in helping fellows establish interactions with one another.
 
@@ -140,13 +136,9 @@ for (iter in 1:N){
 
 `counts` contains the number of breakout rounds required for every fellow to meet at least once in each simulation. The distribution of `counts` is plotted below. 
 
-```{r, echo=F, out.width = "100%"}
-ggplot(data.frame(counts), aes(x=x)) + 
-  geom_histogram(binwidth=1, fill="#69b3a2") +
-  ggtitle("Frequency of no. of breakout rounds needed") +
-  labs(x = "Number of breakout rounds needed for all fellows to meet") + 
-  theme_bw()
-```
+<center>
+![](images/hist_rounds.png){width=80%}
+</center>
 
 We see that the number of breakout rounds needed for all fellows to meet has a wide range, from 22 to 71, with the mean concentrated around 35. This means that it would require an average of 3.5 breakout sessions every week for every fellow to meet each other at least once.
 
