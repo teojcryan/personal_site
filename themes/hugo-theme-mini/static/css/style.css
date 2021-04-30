@@ -1,5 +1,4 @@
 body {
-  line-height: 1.5;
   font: normal 15px/1.5em 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #404040;
   line-height: 1.75;
@@ -212,7 +211,7 @@ nav.navigation a.button {
   margin: 0 4px;
 }
 
-/* #refs {
+#refs {
   padding-left: 22px;
   text-indent: -22px;
   text-align: left;
@@ -225,7 +224,6 @@ nav.navigation a.button {
 #refs::first-line {
   text-indent:0;
 }
-*/
 
 /* main content */
 .main {
