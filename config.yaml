@@ -9,7 +9,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: your-google-analytics-id
+googleAnalytics: UA-168657782-1
 disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
@@ -32,9 +32,9 @@ params:
   # Site Author
   author: Ryan Teo
   # Author biography
-  bio: Undergraduate student interested in the statistical modelling of infectious diseases.
+  bio: Undergraduate Student
   # Site Description, used in HTML meat
-  description: My Blog
+  description: Personal academic website
   enableRSS: false
   # To enable comments, you may need to set `disqusShortname`
   enableComments: false
