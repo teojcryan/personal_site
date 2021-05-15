@@ -19,7 +19,6 @@ markup:
     guessSyntax: true
     style: emacs
 
-
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
@@ -33,7 +32,7 @@ params:
   # Site Author
   author: Ryan Teo
   # Author biography
-  bio: Undergraduate Student
+  bio: Undergraduate student interested in the statistical modelling of infectious diseases.
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: false
